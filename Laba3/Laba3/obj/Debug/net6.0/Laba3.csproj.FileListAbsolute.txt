@@ -1,0 +1,15 @@
+/Users/dobbgoonoff/Projects/Laba3/Laba3/bin/Debug/net6.0/Laba3
+/Users/dobbgoonoff/Projects/Laba3/Laba3/bin/Debug/net6.0/Laba3.deps.json
+/Users/dobbgoonoff/Projects/Laba3/Laba3/bin/Debug/net6.0/Laba3.runtimeconfig.json
+/Users/dobbgoonoff/Projects/Laba3/Laba3/bin/Debug/net6.0/Laba3.dll
+/Users/dobbgoonoff/Projects/Laba3/Laba3/bin/Debug/net6.0/Laba3.pdb
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/Laba3.csproj.AssemblyReference.cache
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/Laba3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/Laba3.AssemblyInfoInputs.cache
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/Laba3.AssemblyInfo.cs
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/Laba3.csproj.CoreCompileInputs.cache
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/Laba3.dll
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/refint/Laba3.dll
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/Laba3.pdb
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/Laba3.genruntimeconfig.cache
+/Users/dobbgoonoff/Projects/Laba3/Laba3/obj/Debug/net6.0/ref/Laba3.dll
